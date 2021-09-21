@@ -24,14 +24,14 @@ body {
     font-size: 16px;
     line-height: 28px;
     font-weight: 400;
-    color: #444;
+    color: #053450;
     background-color: #f4f4f1;
     letter-spacing: 0.5px;
 }
 
 body a {
     text-decoration: none;
-    color: #000;
+    color: #053450;
     transition: color .2s linear;
 }
 
@@ -46,11 +46,11 @@ body a:hover {
 }
 
 .site-wrapper ::selection {
-    background-color: #fffaa3;
+    background-color: #f6851f;
 }
 
 .site-wrapper ::-moz-selection {
-    background-color: #fffaa3;
+    background-color: #f6851f;
 }
 
 .doc-loader {
@@ -88,7 +88,7 @@ body a:hover {
     display: block;
     width: 106%;
     height: 10px;
-    background-color: #fffaa3;
+    background-color: #f6851f;
     position: absolute;
     left: -3%;
     bottom: 6px;
@@ -100,7 +100,7 @@ body a:hover {
 }
 
 .slick-dots li button:before {
-    background-color: #000;
+    background-color: #053450;
     border-radius: 0;
 }
 
@@ -194,7 +194,7 @@ body a:hover {
     position: fixed;
     width: 100%;
     height: 100%;
-    background-color: #000;
+    background-color: #053450;
     top: 0;
     left: 0;
     z-index: 99;
@@ -280,11 +280,11 @@ body a:hover {
 .sm-clean a:hover,
 .main-menu.sm-clean .sub-menu li a.current,
 .main-menu.sm-clean .sub-menu li a:hover {
-    color: #fffaa3;
+    color: #f6851f;
 }
 
 .sm-clean a span.sub-arrow {
-    color: #fffaa3;
+    color: #f6851f;
     font-size: 18px !important;
     right: -50px;
     padding: 5px;
@@ -348,7 +348,7 @@ body a:hover {
 }
 
 .blog-item-holder.sticky .entry-holder {
-    border: 10px solid #000;
+    border: 10px solid #053450;
 }
 
 .blog-item-holder .post-thumbnail {
@@ -436,7 +436,7 @@ body a:hover {
     display: block;
     width: 100%;
     height: 3px;
-    background-color: #fffaa3;
+    background-color: #f6851f;
     position: absolute;
     bottom: 6px;
     left: -2px;
@@ -484,7 +484,7 @@ body a:hover {
 
 .read-more-arrow a {
     color: #fff;
-    background-color: #000;
+    background-color: #053450;
     width: 54px;
     height: 54px;
     display: block;
@@ -492,7 +492,7 @@ body a:hover {
 }
 
 .read-more-arrow a:hover {
-    color: #fffaa3;
+    color: #f6851f;
 }
 
 .read-more-arrow a span {
@@ -528,7 +528,7 @@ body a:hover {
 .blog .more-posts,
 .blog .no-more-posts {
     color: #fff;
-    background-color: #000;
+    background-color: #053450;
     padding: 17px 6px 17px 14px;
     display: inline-block;
     font-size: 11px;
@@ -582,7 +582,7 @@ body a:hover {
     font-size: 48px;
     line-height: 60px;
     font-weight: 400;
-    color: #000;
+    color: #053450;
     margin: 0 auto;
     padding-top: 0;
     padding-bottom: 50px;
@@ -605,7 +605,7 @@ body a:hover {
     margin-top: 65px;
     font-size: 24px;
     line-height: 35px;
-    color: #676767;
+    color: #053450;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -629,7 +629,7 @@ body a:hover {
     line-height: 28px;
     font-style: normal;
     position: relative;
-    color: #000;
+    color: #053450;
     margin-top: 25px;
     display: table;
     z-index: 0;
@@ -642,7 +642,7 @@ body a:hover {
     display: block;
     width: 106%;
     height: 5px;
-    background-color: #fffaa3;
+    background-color: #f6851f;
     position: absolute;
     left: -3%;
     bottom: 5px;
@@ -651,7 +651,7 @@ body a:hover {
 
 .timeline {
     padding: 50px 120px;
-    background-color: #000;
+    background-color: #053450;
     color: #fff;
     font-size: 14px;
     line-height: 20px;
@@ -748,7 +748,7 @@ body a:hover {
     display: block;
     width: 106%;
     height: 5px;
-    background-color: #fffaa3;
+    background-color: #f6851f;
     position: absolute;
     left: -3%;
     bottom: 6px;
@@ -816,7 +816,7 @@ body a:hover {
 .portfolio .more-posts-portfolio,
 .portfolio .no-more-posts-portfolio {
     color: #fff;
-    background-color: #000;
+    background-color: #053450;
     padding: 17px 6px 17px 14px;
     display: inline-block;
     font-size: 11px;
@@ -882,7 +882,7 @@ body a:hover {
 .single h1.entry-title {
     font-family: 'Playfair Display', serif;
     font-weight: 400;
-    color: #000;
+    color: #053450;
     font-size: 60px;
     line-height: 60px;
     margin-bottom: 10px;
@@ -897,7 +897,7 @@ body a:hover {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    color: #000;
+    color: #053450;
     padding-bottom: 30px;
 }
 
@@ -926,15 +926,15 @@ body a:hover {
     padding: 85px 0;
     font-size: 16px;
     line-height: 28px;
-    color: #444;
+    color: #053450;
 }
 
 .big-text {
     font-size: 24px;
     line-height: 28px;
-    color: #000;
+    color: #053450;
     font-weight: 900;
-    border-bottom: 5px solid #fffaa3;
+    border-bottom: 5px solid #f6851f;
     display: inline;
 }
 
@@ -1088,7 +1088,7 @@ body a:hover {
     font-family: 'Lato', sans-serif;
     width: 100%;
     line-height: 25px;
-    color: #000;
+    color: #053450;
     font-weight: 400;
     font-size: 15px;
     margin-bottom: 35px;
@@ -1102,7 +1102,7 @@ body a:hover {
 .contact-form input[type=email]::-webkit-input-placeholder,
 .contact-form textarea::-webkit-input-placeholder {
     font-family: 'Lato', sans-serif;
-    color: #000;
+    color: #053450;
     font-weight: 400;
     font-size: 16px;
     line-height: 25px;
@@ -1112,7 +1112,7 @@ body a:hover {
 .contact-form input[type=email]::-moz-placeholder,
 .contact-form textarea::-moz-placeholder {
     font-family: 'Lato', sans-serif;
-    color: #000;
+    color: #053450;
     font-weight: 400;
     font-size: 16px;
     line-height: 25px;
@@ -1123,7 +1123,7 @@ body a:hover {
 .contact-form input[type=email]:-ms-input-placeholder,
 .contact-form textarea:-ms-input-placeholder {
     font-family: 'Lato', sans-serif;
-    color: #000;
+    color: #053450;
     font-weight: 400;
     font-size: 16px;
     line-height: 25px;
@@ -1133,7 +1133,7 @@ body a:hover {
 .contact-form input[type=email]:-moz-placeholder,
 .contact-form textarea:-moz-placeholder {
     font-family: 'Lato', sans-serif;
-    color: #000;
+    color: #053450;
     font-weight: 400;
     font-size: 16px;
     line-height: 25px;
@@ -1157,8 +1157,8 @@ body a:hover {
 
 .contact-form input[type=submit] {
     display: inline-block;
-    color: #000;
-    border: 1px solid #000;
+    color: #053450;
+    border: 1px solid #053450;
     text-align: center;
     padding: 20px 40px 20px 45px;
     cursor: pointer;
@@ -1175,7 +1175,7 @@ body a:hover {
 }
 
 .contact-form input[type=submit]:hover {
-    background-color: #000;
+    background-color: #053450;
     color: #fff;
 }
 
@@ -1198,7 +1198,7 @@ footer ul {
     clear: both;
     color: #fff;
     text-align: center;
-    background: #000;
+    background: #053450;
 }
 
 .footer a {

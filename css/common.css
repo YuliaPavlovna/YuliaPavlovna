@@ -192,7 +192,7 @@
 blockquote {
     font-weight: 300;
     font-style: italic;
-    border-left: 10px solid #fffaa3;
+    border-left: 10px solid #f6851f;
     padding-left: 20px;
     margin-top: 50px;
     margin-bottom: 50px;
@@ -466,7 +466,7 @@ div.pp_default .pp_description {
 .justified-gallery>a>.caption,
 .justified-gallery>div>.caption {
     background-color: #F4F4F1;
-    color: #000;
+    color: #053450;
     font-size: 12px;
     font-weight: 400;
     font-family: 'Lato', sans-serif;
