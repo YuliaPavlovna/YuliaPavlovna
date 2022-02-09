@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YuliaPavlovna
-- 👀 I’m interested in Vue + Laravel / Angular project.
+- 👀 I’m interested in React / Vue / Angular / Laravel projects.
 - 🌱 I’m currently learning Blockchain.
 - 💞️ I’m looking to collaborate on any other developer group.
 - 📫 How to reach me : yuliapavlovnat@gmail.com
