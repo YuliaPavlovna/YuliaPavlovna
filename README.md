@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @YuliaPavlovna
-- 👀 I’m interested in React / Vue / Angular / Laravel projects.
-- 🌱 I’m currently learning Blockchain.
-- 💞️ I’m looking to collaborate on any other developer group.
+- 👀 I'm a frontend developer (JavaScript | React.js | Python | Web3.js | Ethers.js), which could build interactive experiences for web applications and solve any challenging problem that occur. I am an old hand in developing responsible layouts from scratch using modern technologies such as HTML5, CSS3, Python and JavaScript framework (React or Vue).
 - 📫 How to reach me : yuliapavlovnat@gmail.com
 
 <!---
